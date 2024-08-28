@@ -1,7 +1,7 @@
 import { defineField, defineType } from 'sanity'
 
 export const venueType = defineType({
-    name: 'veneu',
+    name: 'venue',
     title: 'Venue',
     type: 'document',
     fields: [
